@@ -1,0 +1,10 @@
+/Users/miguelcarballogarcia/Documents/5minds/AdventOfCode/2017/adventofcode_2017/01_inverse_captcha/bin/Debug/netcoreapp2.0/01_inverse_captcha.deps.json
+/Users/miguelcarballogarcia/Documents/5minds/AdventOfCode/2017/adventofcode_2017/01_inverse_captcha/bin/Debug/netcoreapp2.0/01_inverse_captcha.runtimeconfig.json
+/Users/miguelcarballogarcia/Documents/5minds/AdventOfCode/2017/adventofcode_2017/01_inverse_captcha/bin/Debug/netcoreapp2.0/01_inverse_captcha.runtimeconfig.dev.json
+/Users/miguelcarballogarcia/Documents/5minds/AdventOfCode/2017/adventofcode_2017/01_inverse_captcha/bin/Debug/netcoreapp2.0/01_inverse_captcha.dll
+/Users/miguelcarballogarcia/Documents/5minds/AdventOfCode/2017/adventofcode_2017/01_inverse_captcha/bin/Debug/netcoreapp2.0/01_inverse_captcha.pdb
+/Users/miguelcarballogarcia/Documents/5minds/AdventOfCode/2017/adventofcode_2017/01_inverse_captcha/obj/Debug/netcoreapp2.0/01_inverse_captcha.csproj.CoreCompileInputs.cache
+/Users/miguelcarballogarcia/Documents/5minds/AdventOfCode/2017/adventofcode_2017/01_inverse_captcha/obj/Debug/netcoreapp2.0/01_inverse_captcha.AssemblyInfoInputs.cache
+/Users/miguelcarballogarcia/Documents/5minds/AdventOfCode/2017/adventofcode_2017/01_inverse_captcha/obj/Debug/netcoreapp2.0/01_inverse_captcha.AssemblyInfo.cs
+/Users/miguelcarballogarcia/Documents/5minds/AdventOfCode/2017/adventofcode_2017/01_inverse_captcha/obj/Debug/netcoreapp2.0/01_inverse_captcha.dll
+/Users/miguelcarballogarcia/Documents/5minds/AdventOfCode/2017/adventofcode_2017/01_inverse_captcha/obj/Debug/netcoreapp2.0/01_inverse_captcha.pdb
