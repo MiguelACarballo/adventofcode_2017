@@ -1,0 +1,10 @@
+/Users/miguelcarballogarcia/Documents/5minds/AdventOfCode/2017/adventofcode_2017/06_memory_reallocation/bin/Debug/netcoreapp2.0/06_memory_reallocation.deps.json
+/Users/miguelcarballogarcia/Documents/5minds/AdventOfCode/2017/adventofcode_2017/06_memory_reallocation/bin/Debug/netcoreapp2.0/06_memory_reallocation.runtimeconfig.json
+/Users/miguelcarballogarcia/Documents/5minds/AdventOfCode/2017/adventofcode_2017/06_memory_reallocation/bin/Debug/netcoreapp2.0/06_memory_reallocation.runtimeconfig.dev.json
+/Users/miguelcarballogarcia/Documents/5minds/AdventOfCode/2017/adventofcode_2017/06_memory_reallocation/bin/Debug/netcoreapp2.0/06_memory_reallocation.dll
+/Users/miguelcarballogarcia/Documents/5minds/AdventOfCode/2017/adventofcode_2017/06_memory_reallocation/bin/Debug/netcoreapp2.0/06_memory_reallocation.pdb
+/Users/miguelcarballogarcia/Documents/5minds/AdventOfCode/2017/adventofcode_2017/06_memory_reallocation/obj/Debug/netcoreapp2.0/06_memory_reallocation.csproj.CoreCompileInputs.cache
+/Users/miguelcarballogarcia/Documents/5minds/AdventOfCode/2017/adventofcode_2017/06_memory_reallocation/obj/Debug/netcoreapp2.0/06_memory_reallocation.AssemblyInfoInputs.cache
+/Users/miguelcarballogarcia/Documents/5minds/AdventOfCode/2017/adventofcode_2017/06_memory_reallocation/obj/Debug/netcoreapp2.0/06_memory_reallocation.AssemblyInfo.cs
+/Users/miguelcarballogarcia/Documents/5minds/AdventOfCode/2017/adventofcode_2017/06_memory_reallocation/obj/Debug/netcoreapp2.0/06_memory_reallocation.dll
+/Users/miguelcarballogarcia/Documents/5minds/AdventOfCode/2017/adventofcode_2017/06_memory_reallocation/obj/Debug/netcoreapp2.0/06_memory_reallocation.pdb
